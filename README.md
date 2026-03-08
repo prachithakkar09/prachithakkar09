@@ -1,8 +1,11 @@
-# Hi, I'm Prachie 👋
+# Hi, I'm Prachi 👋
 
 🎓 Computer Science Student
 💻 Interested in Web Development, AI tools, and Problem Solving
 🌱 Currently learning Java, Data Structures, and JavaScript
+## GitHub Stats
+
+![Prachi's GitHub stats](https://github-readme-stats.vercel.app/api?username=prachithakkar09&show_icons=true&theme=radical)
 
 ## Projects
 
